@@ -1,0 +1,15 @@
+# 1. Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+.env
+*.md
+
+# 2. Node.js (App)
+node_modules/
+*.zip
+
+# 3. IDE
+.vscode/
+.idea/
